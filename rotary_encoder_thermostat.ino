@@ -3,15 +3,9 @@
 
 
 
-Arduino w1209 thermostat clone<br>
-<b>this is the rotary encoder button version<br>
-in the future i will use a rotary encoder button<br>
-just a 1 euro pcb module is easier</b>
+// https://github.com/ldijkman/arduino_w1209_thermostat_clone
 
-a quick change to rotary encoder push button <br>
-most should work
-
-//version 24june 2019
+// version 24june 2019
 //
 // uno or nano 
 // 20x4 i2c lcd
@@ -1066,3 +1060,4 @@ int8_t read_rotary() {
 // a nickle or dime for every device you put this code on
 // would be appreciated Http://paypal.me/LDijkman
 // more is allowed
+// https://github.com/ldijkman/arduino_w1209_thermostat_clone
