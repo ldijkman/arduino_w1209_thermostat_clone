@@ -1,8 +1,9 @@
 
 
 
+// https://github.com/ldijkman/arduino_w1209_thermostat_clone
 
-//version 27 june 2019 
+// version 27 june 2019 
 // should become a safe arduino version of w1209 thermostat
 //
 // but far from finished
@@ -1204,3 +1205,4 @@ void buzzer() {
 // a nickle or dime for every device you put this code on
 // would be appreciated Http://paypal.me/LDijkman
 // more is allowed
+// https://github.com/ldijkman/arduino_w1209_thermostat_clone
