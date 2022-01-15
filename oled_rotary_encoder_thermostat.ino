@@ -35,7 +35,7 @@
 
 
 #include <EEPROM.h>
-//#include <LiquidCrystal_I2C.h>                     // https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home
+//#include <LiquidCrystal_I2C.h>                    https://github.com/fmalpartida/New-LiquidCrystal
 //LiquidCrystal_I2C  lcd(0x27, 2, 1, 0, 4, 5, 6, 7);
 #include <Arduino.h>
 #include <U8x8lib.h>     //Using u8g2 library => search librarymanager for u8g2 and install
