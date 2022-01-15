@@ -20,11 +20,11 @@
 // http://sticker.tk/forum/index.php?action=view&id=296
 // copyright then, now, and forever, luberth dijkman bangert 30 andijk the netherlands
 // bob-a-job
-// a nickle or dime would be apreciated http://paypal.me/pools/c/8amUN5rgb9
+// a nickle or dime would be apreciated Http://paypal.me/LDijkman
 // if you gave me 5 cents for every device you program with this code
 // i will be verry happy
 // it doesnt hurt
-// http://paypal.me/pools/c/8amUN5rgb9
+// Http://paypal.me/LDijkman
 //
 // I Feel so lonely in this Universe ;-(
 // if you change the program to make it do more or better
@@ -1202,5 +1202,5 @@ void buzzer() {
 // it is mostly air i live on
 // but i could use your support
 // a nickle or dime for every device you put this code on
-// would be appreciated http://paypal.me/pools/c/8amUN5rgb9
+// would be appreciated Http://paypal.me/LDijkman
 // more is allowed
