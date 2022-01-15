@@ -1,5 +1,5 @@
 # arduino_w1209_thermostat_clone
-arduino_w1209_thermostat_clone
+https://github.com/ldijkman/arduino_w1209_thermostat_clone
 
 http://sticker.tk/forum/index.php?action=view&id=296
 
